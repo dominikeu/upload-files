@@ -1,0 +1,17 @@
+http://blog.builtbyedgar.com/compilando-ecmascript-6-con-babel-6/
+https://babeljs.io/docs/usage/cli/
+http://www.jonathan-petitcolas.com/2015/03/09/transpiling-es6-to-es5-using-babel.html
+http://weblogs.asp.net/dwahlin/getting-started-with-es6-%E2%80%93-transpiling-es6-to-es5
+http://www.2ality.com/2015/03/babel-on-node.html
+https://blog.risingstack.com/
+http://www.cssauthor.com/node-js-frameworks/
+https://zapier.com/blog/best-bookmaking-read-it-later-app/
+https://zapier.com/blog/best-bookmaking-read-it-later-app/#flipboard
+
+https://www.youtube.com/watch?v=XRdi54tYtU4&list=PL6n9fhu94yhWKHkcL7RJmmXyxkuFB3KSl&index=44
+https://www.youtube.com/watch?v=s3qZF4jhgDo&list=PLYxzS__5yYQmX2bItSRCqwiQZn5dIL1gt
+https://www.youtube.com/channel/UCvFTr_YuMGr0jSCm1b4Xubw
+https://www.youtube.com/channel/UCLp_-eDU0HdA-R0OJcFp3_A/featured
+https://www.youtube.com/user/FalconMasters/playlists
+https://www.youtube.com/watch?v=9b_9PbuB2eg
+https://www.youtube.com/watch?v=sZ0z7B7QmjI
